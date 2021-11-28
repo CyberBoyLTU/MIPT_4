@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">MIPT_4</string>
+
+    <string name="mainTitle">NOTES</string>
+    <string name="mainAddButton">+</string>
+    <string name="mainDeleteButton">-</string>
+
+    <string name="noteTitle">Title</string>
+    <string name="noteDescription">Description</string>
+
+    <string name="notesTitle">NOTE\'S INFO</string>
+    <string name="notesSaveButton">SAVE</string>
+    <string name="notesDeleteButton">DELETE</string>
+
+    <string name="deleteTitle">DELETE</string>
+    <string name="deleteBack">BACK</string>
 </resources>
